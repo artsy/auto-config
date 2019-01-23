@@ -1,5 +1,4 @@
 module.exports = {
-  noVersionPrefix: true,
   name: "Artsy",
   email: "it@artsymail.com",
   labels: {
