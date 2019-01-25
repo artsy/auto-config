@@ -7,6 +7,7 @@ module.exports = {
     patch: "Version: Patch",
     internal: "Version: Trivial"
   },
+  plugins: ["npm", "released"],
   skipReleaseLabels: ["Version: Trivial", "Skip Release"]
 }
 
