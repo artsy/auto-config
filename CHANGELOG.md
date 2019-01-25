@@ -1,3 +1,11 @@
+# v0.0.8 (Fri Jan 25 2019)
+
+#### ⚠️  Pushed to master
+
+- Add yarn.lock file  ([@zephraph](https://github.com/zephraph))
+
+---
+
 # v0.0.7 (Fri Jan 25 2019)
 
 
