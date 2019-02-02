@@ -5,9 +5,10 @@ module.exports = {
     major: "Version: Major",
     minor: "Version: Minor",
     patch: "Version: Patch",
-    internal: "Version: Trivial"
+    internal: "Version: Trivial",
+    documentation: "Docs"
   },
   plugins: ["npm", "released"],
-  skipReleaseLabels: ["Version: Trivial", "Skip Release"]
+  skipReleaseLabels: ["Version: Trivial", "Skip Release", "Docs"]
 }
 
