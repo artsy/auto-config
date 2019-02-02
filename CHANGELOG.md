@@ -1,3 +1,15 @@
+# v0.1.0 (Sat Feb 02 2019)
+
+#### 🚀  Enhancement
+
+- Add support for Docs label [#8](https://github.com/artsy/auto-config/pull/8) ([@zephraph](https://github.com/zephraph))
+
+#### 🏠  Internal
+
+- Update yarn orb to v0.1.5 [#7](https://github.com/artsy/auto-config/pull/7) ([@renovate-bot](https://github.com/renovate-bot))
+
+---
+
 # v0.0.8 (Fri Jan 25 2019)
 
 #### ⚠️  Pushed to master
