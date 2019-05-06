@@ -1,3 +1,15 @@
+# v0.1.2 (Mon May 06 2019)
+
+#### 🐛  Bug Fix
+
+- Revert "Move config to package.json to prep for next auto release" [#14](https://github.com/artsy/auto-config/pull/14) ([@zephraph](https://github.com/zephraph))
+
+#### Authors: 1
+
+- Justin Bennett ([@zephraph](https://github.com/zephraph))
+
+---
+
 # v0.1.1 (Mon May 06 2019)
 
 #### 🐛  Bug Fix
