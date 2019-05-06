@@ -1,6 +1,6 @@
 {
   "name": "@artsy/auto-config",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/artsy/auto-config",
   "author": "Justin Bennett <zephraph@gmail.com>",
