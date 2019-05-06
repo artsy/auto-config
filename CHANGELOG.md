@@ -1,3 +1,23 @@
+# v0.1.1 (Mon May 06 2019)
+
+#### 🐛  Bug Fix
+
+- Move config to package.json to prep for next auto release [#13](https://github.com/artsy/auto-config/pull/13) ([@zephraph](https://github.com/zephraph))
+
+#### 🏠  Internal
+
+- Update yarn orb to v0.2.0 [#12](https://github.com/artsy/auto-config/pull/12) ([@renovate-bot](https://github.com/renovate-bot))
+- Update yarn orb to v0.1.8 [#11](https://github.com/artsy/auto-config/pull/11) ([@renovate-bot](https://github.com/renovate-bot))
+- Update yarn orb to v0.1.7 [#10](https://github.com/artsy/auto-config/pull/10) ([@renovate-bot](https://github.com/renovate-bot))
+- Update yarn orb to v0.1.6 [#9](https://github.com/artsy/auto-config/pull/9) ([@renovate-bot](https://github.com/renovate-bot))
+
+#### Authors: 2
+
+- Justin Bennett ([@zephraph](https://github.com/zephraph))
+- Renovate Bot ([@renovate-bot](https://github.com/renovate-bot))
+
+---
+
 # v0.1.0 (Sat Feb 02 2019)
 
 #### 🚀  Enhancement
