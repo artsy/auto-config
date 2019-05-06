@@ -1,3 +1,15 @@
+# v1.0.0 (Mon May 06 2019)
+
+#### 💥  Breaking Change
+
+- Reformat config to package.json to prep for next auto release [#15](https://github.com/artsy/auto-config/pull/15) ([@zephraph](https://github.com/zephraph))
+
+#### Authors: 1
+
+- Justin Bennett ([@zephraph](https://github.com/zephraph))
+
+---
+
 # v0.1.2 (Mon May 06 2019)
 
 #### 🐛  Bug Fix
