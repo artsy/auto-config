@@ -4,7 +4,7 @@ Artsy's [shared configuration](https://intuit.github.io/auto/pages/autorc.html#e
 
 ## Contributing
 
-The configuration is stored in the `package.json` under the `auto` key. Any updates should be made there.
+The configuration is stored in the `package.json` under the `auto` key. Any updates should be made there. See Auto's [docs](https://intuit.github.io/auto/pages/autorc.html) for information on what can be configured.
 
 ## About Artsy
 
