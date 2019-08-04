@@ -1,3 +1,17 @@
+# v1.0.1 (Sun Aug 04 2019)
+
+#### 🏠  Internal
+
+- Update yarn orb to v2 [#17](https://github.com/artsy/auto-config/pull/17) ([@renovate-bot](https://github.com/renovate-bot))
+- Update renovate.json [#16](https://github.com/artsy/auto-config/pull/16) ([@zephraph](https://github.com/zephraph))
+
+#### Authors: 2
+
+- Renovate Bot ([@renovate-bot](https://github.com/renovate-bot))
+- Justin Bennett ([@zephraph](https://github.com/zephraph))
+
+---
+
 # v1.0.0 (Mon May 06 2019)
 
 #### 💥  Breaking Change
