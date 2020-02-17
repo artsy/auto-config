@@ -11,21 +11,46 @@
   "auto": {
     "name": "Artsy",
     "email": "it@artsymail.com",
-    "labels": {
-      "major": "Version: Major",
-      "minor": "Version: Minor",
-      "patch": "Version: Patch",
-      "internal": "Version: Trivial",
-      "documentation": "Docs",
-      "skip-release": "Skip Release"
-    },
+    "labels": [
+      {
+        "name": "Version: Major",
+        "changelogTitle": "💥  Breaking Change",
+        "description": "Increment the major version when merged",
+        "releaseType": "major"
+      },
+      {
+        "name": "Version: Minor",
+        "changelogTitle": "🚀  Enhancement",
+        "description": "Increment the minor version when merged",
+        "releaseType": "minor"
+      },
+      {
+        "name": "Version: Patch",
+        "changelogTitle": "🐛  Bug Fix",
+        "description": "Increment the patch version when merged",
+        "releaseType": "patch"
+      },
+      {
+        "name": "Skip Release",
+        "description": "Preserve the current version when merged",
+        "releaseType": "skip"
+      },
+      {
+        "name": "Version: Trivial",
+        "changelogTitle": "🏠  Internal",
+        "description": "Changes only affect the internal API",
+        "releaseType": "none"
+      },
+      {
+        "name": "Docs",
+        "changelogTitle": "📝  Documentation",
+        "description": "Changes only affect the documentation",
+        "releaseType": "none"
+      }
+    ],
     "plugins": [
       "npm",
       "released"
-    ],
-    "skipReleaseLabels": [
-      "Version: Trivial",
-      "Docs"
     ]
   }
 }
