@@ -1,3 +1,17 @@
+# v1.0.2 (Mon Feb 17 2020)
+
+#### 🐛  Bug Fix
+
+- Update label configuration to follow 8.x conventions [#20](https://github.com/artsy/auto-config/pull/20) ([@anandaroop](https://github.com/anandaroop))
+- Update yarn orb to v2.1.1 [#19](https://github.com/artsy/auto-config/pull/19) ([@renovate-bot](https://github.com/renovate-bot))
+
+#### Authors: 2
+
+- Anandaroop Roy ([@anandaroop](https://github.com/anandaroop))
+- WhiteSource Renovate ([@renovate-bot](https://github.com/renovate-bot))
+
+---
+
 # v1.0.1 (Sun Aug 04 2019)
 
 #### 🏠  Internal
