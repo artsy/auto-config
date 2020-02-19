@@ -16,8 +16,6 @@ workflows:
           filters:
             branches:
               ignore: master
-          requires:
-            - yarn/workflow-queue
       - auto/publish:
           context: npm-deploy
           filters:
