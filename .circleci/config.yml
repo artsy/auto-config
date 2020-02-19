@@ -1,7 +1,8 @@
 version: 2.1
 
 orbs:
-  yarn: artsy/yarn@3.0.0
+  yarn: artsy/yarn@4.0.0
+  auto: artsy/auto@1.0.1
 
 workflows:
   build:
@@ -10,7 +11,12 @@ workflows:
           filters:
             branches:
               only: master
-      - yarn/auto-release:
+      - auto/publish-canary:
+          context: npm-deploy
+          filters:
+            branches:
+              ignore: master
+      - auto/publish:
           context: npm-deploy
           filters:
             branches:
