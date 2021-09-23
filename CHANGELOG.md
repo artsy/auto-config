@@ -1,3 +1,36 @@
+# v1.1.0 (Thu Sep 23 2021)
+
+#### 🚀  Enhancement
+
+- Update renovate.json [#36](https://github.com/artsy/auto-config/pull/36) ([@zephraph](https://github.com/zephraph))
+
+#### 🏠  Internal
+
+- Remove unused index.js file [#28](https://github.com/artsy/auto-config/pull/28) ([@dblandin](https://github.com/dblandin))
+- Update yarn orb from 5.1.3 to v6 [#38](https://github.com/artsy/auto-config/pull/38) ([@renovate-bot](https://github.com/renovate-bot) [@renovate[bot]](https://github.com/renovate[bot]))
+- Update auto orb from 1.2.1 to v1.3.2 [#33](https://github.com/artsy/auto-config/pull/33) ([@renovate-bot](https://github.com/renovate-bot))
+- Update yarn orb from 5.1.0 to v5.1.1 [#32](https://github.com/artsy/auto-config/pull/32) ([@renovate-bot](https://github.com/renovate-bot))
+- Update yarn orb from 5.0.0 to v5.1.0 [#31](https://github.com/artsy/auto-config/pull/31) ([@renovate-bot](https://github.com/renovate-bot))
+- Update auto orb from 1.2.0 to v1.2.1 [#29](https://github.com/artsy/auto-config/pull/29) ([@renovate-bot](https://github.com/renovate-bot))
+- Update yarn orb from 4.0.2 to v5 [#30](https://github.com/artsy/auto-config/pull/30) ([@renovate-bot](https://github.com/renovate-bot) [@renovate[bot]](https://github.com/renovate[bot]))
+- Update yarn orb from 5.1.1 to v5.1.3 [#34](https://github.com/artsy/auto-config/pull/34) ([@renovate-bot](https://github.com/renovate-bot))
+- Update auto orb from 1.1.0 to v1.2.0 [#27](https://github.com/artsy/auto-config/pull/27) ([@renovate-bot](https://github.com/renovate-bot))
+- Update auto orb to v1.1.0 [#26](https://github.com/artsy/auto-config/pull/26) ([@renovate-bot](https://github.com/renovate-bot))
+- Update auto orb to v1.0.2 [#25](https://github.com/artsy/auto-config/pull/25) ([@renovate-bot](https://github.com/renovate-bot))
+- Update yarn orb to v4.0.2 [#24](https://github.com/artsy/auto-config/pull/24) ([@renovate-bot](https://github.com/renovate-bot))
+- Update yarn orb to v4.0.1 [#23](https://github.com/artsy/auto-config/pull/23) ([@renovate-bot](https://github.com/renovate-bot))
+- Update yarn orb to v4 [#22](https://github.com/artsy/auto-config/pull/22) ([@renovate-bot](https://github.com/renovate-bot) [@zephraph](https://github.com/zephraph) [@renovate[bot]](https://github.com/renovate[bot]))
+- Update yarn orb to v3 [#21](https://github.com/artsy/auto-config/pull/21) ([@renovate-bot](https://github.com/renovate-bot) [@renovate[bot]](https://github.com/renovate[bot]))
+
+#### Authors: 4
+
+- [@renovate[bot]](https://github.com/renovate[bot])
+- Devon Blandin ([@dblandin](https://github.com/dblandin))
+- Justin Bennett ([@zephraph](https://github.com/zephraph))
+- WhiteSource Renovate ([@renovate-bot](https://github.com/renovate-bot))
+
+---
+
 # v1.0.2 (Mon Feb 17 2020)
 
 #### 🐛  Bug Fix
