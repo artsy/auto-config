@@ -1,3 +1,21 @@
+# v1.1.1 (Mon Mar 07 2022)
+
+#### ⚠️ Pushed to `master`
+
+- Update yarn orb from 6.0.0 to v6.1.0 ([@renovate-bot](https://github.com/renovate-bot))
+
+#### 🏠  Internal
+
+- Update auto orb from 1.4.0 to v2 [#39](https://github.com/artsy/auto-config/pull/39) ([@renovate-bot](https://github.com/renovate-bot) [@renovate[bot]](https://github.com/renovate[bot]))
+- Update auto orb from 1.3.2 to v1.4.0 [#37](https://github.com/artsy/auto-config/pull/37) ([@renovate-bot](https://github.com/renovate-bot) [@renovate[bot]](https://github.com/renovate[bot]))
+
+#### Authors: 2
+
+- [@renovate[bot]](https://github.com/renovate[bot])
+- WhiteSource Renovate ([@renovate-bot](https://github.com/renovate-bot))
+
+---
+
 # v1.1.0 (Thu Sep 23 2021)
 
 #### 🚀  Enhancement
