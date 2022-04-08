@@ -1,3 +1,19 @@
+# v1.2.0 (Fri Apr 08 2022)
+
+#### 🚀  Enhancement
+
+- chore: update renovate assignee [#42](https://github.com/artsy/auto-config/pull/42) ([@ovasdi](https://github.com/ovasdi))
+
+#### ⚠️ Pushed to `main`
+
+- master main switch ([@ovasdi](https://github.com/ovasdi))
+
+#### Authors: 1
+
+- Ozzie Vasdi ([@ovasdi](https://github.com/ovasdi))
+
+---
+
 # v1.1.1 (Mon Mar 07 2022)
 
 #### ⚠️ Pushed to `master`
