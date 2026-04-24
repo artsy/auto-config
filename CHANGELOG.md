@@ -1,3 +1,30 @@
+# v1.3.0 (Fri Apr 24 2026)
+
+#### 🚀  Enhancement
+
+- feat: add add-version-label github action [#50](https://github.com/artsy/auto-config/pull/50) ([@amonkhouse](https://github.com/amonkhouse))
+- feat: add conventional commit github action [#49](https://github.com/artsy/auto-config/pull/49) ([@amonkhouse](https://github.com/amonkhouse))
+
+#### 🐛  Bug Fix
+
+- feat: add triggers to conventional commits check [#52](https://github.com/artsy/auto-config/pull/52) ([@amonkhouse](https://github.com/amonkhouse))
+
+#### 🏠  Internal
+
+- Update auto orb from 2.1.0 to v2.2.0 [#47](https://github.com/artsy/auto-config/pull/47) ([@renovate[bot]](https://github.com/renovate[bot]))
+- Update yarn orb from 6.4.0 to v6.5.0 [#46](https://github.com/artsy/auto-config/pull/46) ([@renovate[bot]](https://github.com/renovate[bot]))
+- Update yarn orb from 6.2.0 to v6.4.0 [#45](https://github.com/artsy/auto-config/pull/45) ([@renovate[bot]](https://github.com/renovate[bot]))
+- Update yarn orb from 6.1.0 to v6.2.0 [#44](https://github.com/artsy/auto-config/pull/44) ([@renovate-bot](https://github.com/renovate-bot))
+- Update auto orb from 2.0.0 to v2.1.0 [#43](https://github.com/artsy/auto-config/pull/43) ([@renovate-bot](https://github.com/renovate-bot))
+
+#### Authors: 3
+
+- [@renovate[bot]](https://github.com/renovate[bot])
+- Amy Monkhouse ([@amonkhouse](https://github.com/amonkhouse))
+- Mend Renovate ([@renovate-bot](https://github.com/renovate-bot))
+
+---
+
 # v1.2.0 (Fri Apr 08 2022)
 
 #### 🚀  Enhancement
